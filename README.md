@@ -1,4 +1,4 @@
-# SIOT_coursework
+# What is the problem ?
 
 As electricity production generates an important amount of greenhouse gas emissions, rethinking and reducing our electricity consumption is crucial to address climate change issues. 
 
@@ -8,7 +8,7 @@ In other words: **Does  alarming ‘energy and climate change’ news impact my 
 View the project web interface:
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/cocoritz/siot_coursework/main/streamlit_app.py)
 
-## Coursework 1: Sensing and data collection 
+## How did i collect the data ? 
 
 The data collection directory contains all scripts related to the collection of the two data streams: a student household energy consumption and the amount of news about climate change on Twitter.
 
@@ -25,10 +25,6 @@ Csv files containing the data as a backup for Mongodb are all stored in data sto
 * `energy_prediction`: values of the energy predictions in the next days
 
 #### It is important to note that script files will not run without the API keys and credentials files. These have not been committed to GitHub.
-
-## Coursework 2: Internet of Things and interface
-
-The data analysis contains all script related to cleaning, correlation, prediction and visualisation of the data collection.
 
 **Files description:**
 
