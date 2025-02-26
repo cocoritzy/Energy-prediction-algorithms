@@ -13,8 +13,6 @@ In other words: **Does  alarming ‘energy and climate change’ news impact my 
 3. **Actuate**: Send SMS alerts to housemates when energy use exceeds predictions.  
 4. **Visualize**: Provide real-time energy and tweet data via a web app.  
 
----
-
 ## ARCHITECTURE
 
 1. **Hardware**:  
