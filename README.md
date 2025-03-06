@@ -58,7 +58,6 @@ In other words: **Does  alarming ‘energy and climate change’ news impact my 
 
 ## 🔗 LINKS
 
-- **Code & Data**: [GitHub](https://github.com/cocoritz/SIOT_coursework)  
 - **Web App**: [Streamlit](https://share.streamlit.io/cocoritz/siot_coursework/main/streamlit_app.py)  
 - **Presentation**: [YouTube](https://www.youtube.com/watch?v=xOVhrPEBo9Y)  
 
