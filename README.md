@@ -5,6 +5,13 @@ As electricity production generates an important amount of greenhouse gas emissi
 This project explored the correlation between my household energy consumption and shared information about climate change shared on Twitter.
 In other words: **Does  alarming ‘energy and climate change’ news impact my household energy consumption behaviour?** 
 
+---
+
+## 🔗 LINKS
+
+- **Web App**: [Streamlit](https://share.streamlit.io/cocoritz/siot_coursework/main/streamlit_app.py)  
+- **Presentation**: [YouTube](https://www.youtube.com/watch?v=xOVhrPEBo9Y)  
+
 ## MY CONCEPT
 
 **A data-driven approach to energy awareness**:  
@@ -16,7 +23,8 @@ In other words: **Does  alarming ‘energy and climate change’ news impact my 
 ## ARCHITECTURE
 
 1. **Hardware**:  
-   - ESP32 with a light sensor to track electricity meter flashes.  
+   - ESP32 with a light sensor to track electricity meter flashes.
+   <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/8695c6f1-aef7-4ca8-8908-f524b1dcd15a" />
 
 2. **APIs**:  
    - Twitter API to collect tweets about "climate change" and "energy."  
@@ -31,7 +39,7 @@ In other words: **Does  alarming ‘energy and climate change’ news impact my 
 
 5. **Web App**:  
    - Streamlit for real-time data visualization.  
-
+<img width="1436" alt="Image" src="https://github.com/user-attachments/assets/945afdcc-4d0f-43fa-9baf-770fa80565a5" />
 ---
 
 ## DATA COLLECTION & ANALYSIS
@@ -48,18 +56,11 @@ In other words: **Does  alarming ‘energy and climate change’ news impact my 
 
 ---
 
-## THE RESULTS (SO FAR!)
+## THE RESULTS
 
 - **Correlation**: A slight correlation (Pearson r = 0.37) between energy use and tweets.  
 - **Behavioral Impact**: SMS alerts could influence energy-saving behavior over time.  
 - **Web App**: Real-time energy and tweet data visualized via Streamlit.  
-
----
-
-## 🔗 LINKS
-
-- **Web App**: [Streamlit](https://share.streamlit.io/cocoritz/siot_coursework/main/streamlit_app.py)  
-- **Presentation**: [YouTube](https://www.youtube.com/watch?v=xOVhrPEBo9Y)  
 
 ---
 
